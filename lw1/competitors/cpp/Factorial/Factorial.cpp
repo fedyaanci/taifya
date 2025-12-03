@@ -15,6 +15,5 @@ int main()
 {
     int num;
     std::cin >> num;
-
     std::cout << Factorial(num) << std::endl;
 }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\CircleSquare\\",
+  "WorkspaceRootPath": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\CircleSquare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D2E97AA-243E-4033-BE23-1C5521868779}|CircleSquare.vcxproj|C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\CircleSquare\\CircleSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5D2E97AA-243E-4033-BE23-1C5521868779}|CircleSquare.vcxproj|C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\CircleSquare\\CircleSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D2E97AA-243E-4033-BE23-1C5521868779}|CircleSquare.vcxproj|solutionrelative:CircleSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CircleSquare.cpp",
-              "DocumentMoniker": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\CircleSquare\\CircleSquare.cpp",
+              "DocumentMoniker": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\CircleSquare\\CircleSquare.cpp",
               "RelativeDocumentMoniker": "CircleSquare.cpp",
-              "ToolTip": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\CircleSquare\\CircleSquare.cpp",
+              "ToolTip": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\CircleSquare\\CircleSquare.cpp",
               "RelativeToolTip": "CircleSquare.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-13T01:22:16.937Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\Factorial\\",
+  "WorkspaceRootPath": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\Factorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D750D19F-C0A6-4181-9D67-8E836866CB8C}|Factorial.vcxproj|C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\Factorial\\Factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D750D19F-C0A6-4181-9D67-8E836866CB8C}|Factorial.vcxproj|C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\Factorial\\Factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D750D19F-C0A6-4181-9D67-8E836866CB8C}|Factorial.vcxproj|solutionrelative:Factorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Factorial.cpp",
-              "DocumentMoniker": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\Factorial\\Factorial.cpp",
+              "DocumentMoniker": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\Factorial\\Factorial.cpp",
               "RelativeDocumentMoniker": "Factorial.cpp",
-              "ToolTip": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\Factorial\\Factorial.cpp",
+              "ToolTip": "C:\\Users\\fedya-PC\\Desktop\\\u0422\u0410\u0438\u0424\u042F\\lw1\\competitors\\cpp\\Factorial\\Factorial.cpp",
               "RelativeToolTip": "Factorial.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-13T00:19:09.022Z",
               "EditorCaption": ""
